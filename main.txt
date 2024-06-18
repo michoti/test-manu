@@ -1,7 +1,9 @@
-Domesticated livestock
+Domesticated animals
 ========================
 1.sheep
 2.goat
 3.cow
 4.camel 
 5.donkey
+6.cat
+7.dog
